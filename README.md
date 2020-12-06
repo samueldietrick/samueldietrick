@@ -4,9 +4,7 @@
   <b>Hey my firend</b> :hearts:
 </p>
 
-<p align="left"> 
- <span>&#x1f1e7;&#x1f1f7;</span> Meu nome é Samuel Dietrick, sou programador web e atuo na área a mais de 5 anos.
-</p>
+
 
 <p align="left"> 
  :us: My name is Samuel Dietrick, I am a web programmer and have been working in the field for over 5 years.
