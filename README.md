@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  :fire: skills: <img src="https://github.com/samueldietrick/samueldietrick/blob/main/php-icon.png?raw=true"><strong>PHP, HTML5, CSS3, JAVASCRIPT, SASS, SHELL SCRIPT</strong>
+  :fire: skills: <strong>PHP, HTML5, CSS3, JAVASCRIPT, SASS, SHELL SCRIPT</strong>
 </p>
 
 <p align="left">
