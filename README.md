@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  💌 Do you want me working on your projects? ⤵️
+  :clap: Do you want me working on your projects? ⤵️
 </p>
 
 <p align="left">
