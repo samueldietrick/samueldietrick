@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  :clap: Do you want me working on your projects? ⤵️
+  :clap: Do you want me working on your projects?:arrow_down:
 </p>
 
 <p align="left">
