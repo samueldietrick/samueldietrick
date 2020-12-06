@@ -27,7 +27,7 @@
   <a href="https://t.me/samueldietrick" target="_blank">
   <img src="https://github.com/samueldietrick/samueldietrick/blob/main/t-icon.png?raw=true"/></a>
 
-  <a href="#" target="_blank">
+  <a href="https://www.facebook.com/samueldietrick0/" target="_blank">
   <img src="https://github.com/samueldietrick/samueldietrick/blob/main/f-icon.png?raw=true"/></a>
 
   <a href="#" target="_blank">
