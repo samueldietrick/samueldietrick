@@ -1,4 +1,4 @@
-<img src="https://github.com/samueldietrick/samueldietrick/blob/main/transferir%20(33).png?raw=true" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/samueldietrick/samueldietrick/blob/main/fluiddev.png?raw=true" min-width="400px" max-width="400px" width="400px" align="right" alt="FluidDev">
 
 <p align="left"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
