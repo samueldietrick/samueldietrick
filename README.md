@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+  :octopus: skills: <strong>PHP, HTML5, CSS3, JAVASCRIPT, SASS, SHELL SCRIPT</strong>
 </p>
 
 <p align="left">
