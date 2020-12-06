@@ -24,12 +24,12 @@
 
 <p align="left">
 
-  <a href="https://t.me/samueldietrick" alt="Telegram" target="_blanck">
+  <a href="https://t.me/samueldietrick" alt="Telegram" target="_blank">
   <img src="https://github.com/samueldietrick/samueldietrick/blob/main/t-icon.png?raw=true"/></a>
 
-  <a href="#" alt="Facebook">
+  <a href="#" alt="Facebook" target="_blank">
   <img src="https://github.com/samueldietrick/samueldietrick/blob/main/f-icon.png?raw=true"/></a>
 
-  <a href="#" alt="Instagram">
+  <a href="#" alt="Instagram" target="_blank">
   <img src="https://github.com/samueldietrick/samueldietrick/blob/main/e-icon.png?raw=true"/></a>
 </p>  
