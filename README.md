@@ -31,5 +31,5 @@
   <img src="https://github.com/samueldietrick/samueldietrick/blob/main/f-icon.png?raw=true"/></a>
 
   <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+  <img src="https://github.com/samueldietrick/samueldietrick/blob/main/e-icon.png?raw=true"/></a>
 </p>  
