@@ -24,7 +24,7 @@
 
 <p align="left">
 
-  <a href="#" alt="Telegram">
+  <a href="https://t.me/samueldietrick" alt="Telegram">
   <img src="https://github.com/samueldietrick/samueldietrick/blob/main/t-icon.png?raw=true"/></a>
 
   <a href="#" alt="Facebook">
