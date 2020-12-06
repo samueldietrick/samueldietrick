@@ -7,7 +7,7 @@
 
 
 <p align="left"> 
- :wave: My name is Samuel Dietrick, I am a web programmer and have been working in the field for over 5 years.
+ :wave: Hello, my name is Samuel more affectionately called happy, I have been a back-end programmer for 5 years.
 </p>
 
 <p align="left">
