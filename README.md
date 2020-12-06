@@ -11,11 +11,11 @@
 </p>
 
 <p align="left">
-  :fire: skills: <strong>PHP, HTML5, CSS3, JAVASCRIPT, SASS, SHELL SCRIPT</strong>
+  :fire: skills: <strong>PHP, HTML5, CSS3, JAVASCRIPT, SASS, Cloud Computing</strong>
 </p>
 
 <p align="left">
-  :wrench: Tools: <strong>VsCode, Git, Photoshop, Cloud Computing</strong>
+  :wrench: Tools: <strong>VsCode, Git, Photoshop, Linux</strong>
 </p>
 
 <p align="left">
