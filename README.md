@@ -1,7 +1,7 @@
 <img src="https://github.com/samueldietrick/samueldietrick/blob/main/fluiddev.png?raw=true" min-width="200px" max-width="250px" width="400px" align="right" alt="FluidDev">
 
 <p align="left"> 
-  <b>Hey my firend</b> :heart:
+  <b>Hey my friend</b> :heart:
 </p>
 
 
