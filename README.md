@@ -30,6 +30,6 @@
   <a href="https://www.facebook.com/samueldietrick0/" target="_blank">
   <img src="https://github.com/samueldietrick/samueldietrick/blob/main/f-icon.png?raw=true"/></a>
 
-  <a href="#" target="_blank">
+  <a href="mailto:contato.samueldietrick@gmail.com" target="_blank">
   <img src="https://github.com/samueldietrick/samueldietrick/blob/main/e-icon.png?raw=true"/></a>
 </p>  
