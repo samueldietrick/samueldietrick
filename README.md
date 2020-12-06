@@ -1,8 +1,15 @@
 <img src="https://github.com/samueldietrick/samueldietrick/blob/main/fluiddev.png?raw=true" min-width="200px" max-width="250px" width="350px" align="right" alt="FluidDev">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  <b>Hey my firend</b> :hearts:
+</p>
+
+<p align="left"> 
+ <span>&#x1f1e7;&#x1f1f7;</span> Meu nome é Samuel Dietrick, sou programador web e atuo na área a mais de 5 anos.
+</p>
+
+<p align="left"> 
+ :us: My name is Samuel Dietrick, I am a web programmer and have been working in the field for over 5 years.
 </p>
 
 <p align="left">
