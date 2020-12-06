@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  :wrench: Tools: <strong>VsCode, Git, Photoshop, Figma, Linux</strong>
+  :wrench: Tools: <strong>VsCode, Git, Photoshop, Cloud Computing</strong>
 </p>
 
 <p align="left">
