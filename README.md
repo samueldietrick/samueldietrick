@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  :fire: skills: <strong>PHP,PYTHON, HTML5, CSS3, JAVASCRIPT, SASS, Cloud Computing</strong>
+  :fire: skills: <strong>PHP, PYTHON, HTML5, CSS3, JAVASCRIPT, SASS, Cloud Computing</strong>
 </p>
 
 <p align="left">
