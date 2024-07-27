@@ -1,10 +1,10 @@
-# 👋 Olá, eu sou {Seu Nome}
+# 👋 Olá, meu nome é Samuel
 
 ## 💼 Perfil Profissional
 
-- 💻 Estudante de Programação
+- 💻 Programador Sênior
+- ❤ a 11 anos escrevendo código
 - 🌱 Apaixonado por Tecnologia
-- 🎓 Cursando [Nome do Curso / Instituição]
 
 ## 🚀 Habilidades
 
