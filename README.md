@@ -25,6 +25,6 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 
 [![Linkedin: Samuel Dietrick](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samueldietrick/)](https://www.linkedin.com/in/samueldietrick/) <br><br>
 
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=samueldietrick&show_icons=true&theme=dark) <br><br>
+![SamuelDietrick GitHub stats](https://github-readme-stats.vercel.app/api?username=samueldietrick&show_icons=true&theme=dark) <br><br>
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
