@@ -3,5 +3,4 @@
 ## 💼 Perfil Profissional
 
 - 💻 Programador Sênior
-- ❤ a 11 anos escrevendo código
-- 🌱 Apaixonado por Tecnologia
+- 🌱 A 11 anos escrevendo código
